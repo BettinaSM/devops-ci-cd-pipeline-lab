@@ -23,6 +23,14 @@ This project demonstrates a CI/CD pipeline using GitHub Actions to automate vali
 
 ---
 
+## 🔄 Pipeline Flow
+
+- Terraform validation
+- Ansible validation
+- Automated execution on push
+
+---
+
 ## ⚙️ Features
 
 - Automatic pipeline on push
