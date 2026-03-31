@@ -1,12 +1,12 @@
-# 🚀 DevOps CI/CD Pipeline Lab
+#  DevOps CI/CD Pipeline Lab
 
-## 📌 Overview
+## Overview
 
 This project demonstrates a CI/CD pipeline using GitHub Actions to automate validation and deployment steps.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Automate code validation
 - Simulate infrastructure deployment
@@ -15,7 +15,7 @@ This project demonstrates a CI/CD pipeline using GitHub Actions to automate vali
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 - GitHub Actions for pipeline automation
 - Terraform validation (simulated)
@@ -23,7 +23,7 @@ This project demonstrates a CI/CD pipeline using GitHub Actions to automate vali
 
 ---
 
-## 🔄 Pipeline Flow
+## Pipeline Flow
 
 - Terraform validation
 - Ansible validation
@@ -31,7 +31,7 @@ This project demonstrates a CI/CD pipeline using GitHub Actions to automate vali
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Automatic pipeline on push
 - Infrastructure validation
@@ -40,7 +40,7 @@ This project demonstrates a CI/CD pipeline using GitHub Actions to automate vali
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. Code is pushed to repository
 2. GitHub Actions pipeline runs
@@ -49,7 +49,7 @@ This project demonstrates a CI/CD pipeline using GitHub Actions to automate vali
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - CI/CD pipelines
 - GitHub Actions
@@ -58,6 +58,6 @@ This project demonstrates a CI/CD pipeline using GitHub Actions to automate vali
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 This project simulates CI/CD pipelines for learning purposes.
